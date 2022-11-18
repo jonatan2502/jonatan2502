@@ -3,13 +3,14 @@
 </div>
 <h1 align="center">Hi!👋 My name is Jonatan Piedra</h1>
 <h3 align="center">I'm a Full Stack Web Developer 💻</h3>
-<!-- <p align="center">I enjoy learning new things and </p> -->
+<p align="center">I enjoy learning new things and new experiencies as well.</p>
+<p align="center">I'm eager to collaborate in new or existing full stack web projects.</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/jonatan-piedra-9036ab4b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonatan-piedra-9036ab4b" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Some languages and tools I use:</h3>
+<h3 align="center">🔨 These are some languages and tools I use:</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://res.cloudinary.com/genaro-bercini/image/upload/v1653669571/Portfolio/Skills/html_bquhfc.png" title='HTML' alt='HTML' width="40" height="40"/>
@@ -43,7 +44,7 @@
 </p>
 
 
-<h3 align="center">📊 Github stats:</h3>
+<h3 align="center">📊 And these are my Github stats so far:</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonatan2502&show_icons=true&locale=en&layout=compact" alt="jonatan2502" />
 </p>
