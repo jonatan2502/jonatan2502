@@ -11,9 +11,9 @@
 </p>
 
 <h3 align="center">🔨 These are some languages and tools I use:</h3>
-<p align="center">
+<p align="center" style="background-color:white">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title='HTML' alt='HTML' width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title='HTML' alt='HTML' width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title='CSS' alt='CSS' height="40"/>
