@@ -23,7 +23,7 @@
     <img src="https://res.cloudinary.com/genaro-bercini/image/upload/v1653669545/Portfolio/Skills/javascript_byjjtt.png" alt="JavaScript" title='JavaScript' width="40" height="40"/>
   </a>
   <a href="https://es.reactjs.org/" target="_blank">
-    <img src="https://res.cloudinary.com/genaro-bercini/image/upload/v1659160601/Portfolio/Skills/react.png" alt="React" title='React' width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" title='React' width="40" height="40"/>
   </a>
   <a href="https://firebase.google.com/?hl=es" target="_blank">
     <img src="https://res.cloudinary.com/genaro-bercini/image/upload/v1659160305/Portfolio/Skills/firebase_v5ieli.png" title='Firebase' alt='Firebase' width="40" height="40"/>
