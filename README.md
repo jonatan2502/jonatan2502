@@ -1,5 +1,3 @@
-<div style="background-color:white">
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="200"/>
 </div>
@@ -37,6 +35,7 @@
   <a href="https://sequelize.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="Sequelize" title='Sequelize' width="40" height="40"/>
   </a>
+  <br/>
   <a href="https://expressjs.com/en/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express" title='Express' width="40" height="40"/>
   </a>
@@ -67,4 +66,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonatan2502&show_icons=true&locale=en&layout=compact" alt="jonatan2502" />
 </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonatan2502&show_icons=true&locale=en" alt="jonatan2502" /></p>
-</div>
+
