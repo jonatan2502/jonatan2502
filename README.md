@@ -1,3 +1,5 @@
+<div style="background:gray">
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="200"/>
 </div>
@@ -65,3 +67,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonatan2502&show_icons=true&locale=en&layout=compact" alt="jonatan2502" />
 </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonatan2502&show_icons=true&locale=en" alt="jonatan2502" /></p>
+</div>
