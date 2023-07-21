@@ -13,33 +13,49 @@
 <h3 align="center">🔨 These are some languages and tools I use:</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://res.cloudinary.com/genaro-bercini/image/upload/v1653669571/Portfolio/Skills/html_bquhfc.png" title='HTML' alt='HTML' width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title='HTML' alt='HTML' width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://res.cloudinary.com/genaro-bercini/image/upload/v1653669552/Portfolio/Skills/css_q6blj8.png" width="40" title='CSS' alt='CSS' height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title='CSS' alt='CSS' height="40"/>
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://res.cloudinary.com/genaro-bercini/image/upload/v1653669545/Portfolio/Skills/javascript_byjjtt.png" alt="JavaScript" title='JavaScript' width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title='JavaScript' width="40" height="40"/>
   </a>
   <a href="https://es.reactjs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" title='React' width="40" height="40"/>
   </a>
-  <a href="https://firebase.google.com/?hl=es" target="_blank">
+<!--   <a href="https://firebase.google.com/?hl=es" target="_blank">
     <img src="https://res.cloudinary.com/genaro-bercini/image/upload/v1659160305/Portfolio/Skills/firebase_v5ieli.png" title='Firebase' alt='Firebase' width="40" height="40"/>
-  </a>
+  </a> -->
   <a href="https://redux.js.org/" target="_blank">
-    <img src="https://res.cloudinary.com/genaro-bercini/image/upload/v1653669572/Portfolio/Skills/redux_fmxhjj.png" alt="Redux" title='Redux' width="40" height="40"/> </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" title='Redux' width="40" height="40"/> </a>
   <a href="https://nodejs.org/en/about/" target="_blank">
-    <img src="https://res.cloudinary.com/genaro-bercini/image/upload/v1653669571/Portfolio/Skills/nodejs_bgxv7g.png" alt="NodeJS" title='NodeJS' width="40" height="40"/> </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" title='NodeJS' width="40" height="40"/> </a>
   <a href="https://sequelize.org/" target="_blank">
-    <img src="https://res.cloudinary.com/genaro-bercini/image/upload/v1653669572/Portfolio/Skills/sequelize_tfgs7y.png" alt="Sequelize" title='Sequelize' width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="Sequelize" title='Sequelize' width="40" height="40"/>
   </a>
   <a href="https://expressjs.com/en/" target="_blank">
-    <img src="https://res.cloudinary.com/genaro-bercini/image/upload/v1653669555/Portfolio/Skills/express_cajcvz.png" alt="Express" title='Express' width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express" title='Express' width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://res.cloudinary.com/genaro-bercini/image/upload/v1653669571/Portfolio/Skills/postgre_tuhc5q.png" alt="PostgreSQL" title='PostgreSQL' width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL" title='PostgreSQL' width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" title='MongoDB' width="40" height="40"/>
+  </a>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker" title='Docker' width="40" height="40"/>
+  </a>
+  <a href="https://www.nextjs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" title='Next.js' width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.sv" alt="Git" title='Git' width="40" height="40"/>
+  </a>
+  <a href="https://github.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Git" title='Git' width="40" height="40"/>
   </a>
 </p>
 
