@@ -52,7 +52,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" title='Next.js' width="40" height="40"/>
   </a>
   <a href="https://git-scm.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.sv" alt="Git" title='Git' width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title='Git' width="40" height="40"/>
   </a>
   <a href="https://github.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Git" title='Git' width="40" height="40"/>
