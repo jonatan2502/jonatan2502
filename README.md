@@ -37,13 +37,16 @@
   </a>
   <br/>
   <a href="https://expressjs.com/en/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express" title='Express' width="40" height="40"/>
+    <img src="https://res.cloudinary.com/genaro-bercini/image/upload/v1653669555/Portfolio/Skills/express_cajcvz.png" alt="Express" title='Express' width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL" title='PostgreSQL' width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" title='MongoDB' width="40" height="40"/>
+  </a>
+  <a href="https://www.mongoosejs.com/" target="_blank">
+    <img src="https://res.cloudinary.com/genaro-bercini/image/upload/v1654271443/Portfolio/Skills/mongoose_el3aoy.png" alt="Mongoose" title='Mongoose' width="40" height="40"/>
   </a>
   </a>
   <a href="https://www.docker.com/" target="_blank">
